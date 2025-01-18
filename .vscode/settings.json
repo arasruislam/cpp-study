@@ -1,0 +1,8 @@
+{
+   "files.associations": {
+      "**/templates/*.html": "django-html",
+      "**/*.html": "html",
+      "vector": "cpp"
+   },
+   "editor.tabSize": 3
+}
