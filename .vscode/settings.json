@@ -4,5 +4,6 @@
       "**/*.html": "html",
       "vector": "cpp"
    },
-   "editor.tabSize": 3
+   "editor.tabSize": 3,
+   "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
